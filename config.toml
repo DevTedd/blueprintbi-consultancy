@@ -1,4 +1,4 @@
-baseURL = "blueprintbi.co.ke"
+baseURL = "/"
 themesDir = "themes"
 theme = "serif"
 languageCode = "en-us"
