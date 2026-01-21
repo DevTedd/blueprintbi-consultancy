@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Blueprint BI</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Homepage on Blueprint BI</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peter Van Eijk</title>
+      <link>//localhost:1313/team/peter-van-eijk/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <guid>//localhost:1313/team/peter-van-eijk/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;&#xA;&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Discovery</title>
+      <link>//localhost:1313/services/data-discovery/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>//localhost:1313/services/data-discovery/</guid>
+      <description>Before you can grow, you must know what you have</description>
+    </item>
+    <item>
+      <title>Business Intelligence</title>
+      <link>//localhost:1313/services/business-inteligence/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/business-inteligence/</guid>
+      <description>Transform raw data into a competitive advantage with real-time dashboards and strategic visual reporting.</description>
+    </item>
+    <item>
+      <title>Sage Kirk</title>
+      <link>//localhost:1313/team/sage-kirk/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <guid>//localhost:1313/team/sage-kirk/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI &amp; Predictive Analytics</title>
+      <link>//localhost:1313/services/ai-analytics/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/ai-analytics/</guid>
+      <description>Move from reactive troubleshooting to proactive strategy with custom machine learning models and predictive forecasting.</description>
+    </item>
+    <item>
+      <title>Mike Vance</title>
+      <link>//localhost:1313/team/mike-vance/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
+      <guid>//localhost:1313/team/mike-vance/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robert Johnson</title>
+      <link>//localhost:1313/team/robert-johnson/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
+      <guid>//localhost:1313/team/robert-johnson/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tamara Ells</title>
+      <link>//localhost:1313/team/tamara-ells/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
+      <guid>//localhost:1313/team/tamara-ells/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mergers</title>
+      <link>//localhost:1313/services/mergers/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      <guid>//localhost:1313/services/mergers/</guid>
+      <description>&lt;p&gt;Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Superannuation</title>
+      <link>//localhost:1313/services/superannuation/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      <guid>//localhost:1313/services/superannuation/</guid>
+      <description>&lt;p&gt;We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tax Preparation</title>
+      <link>//localhost:1313/services/tax-preperation/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>//localhost:1313/services/tax-preperation/</guid>
+      <description>Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations.</description>
+    </item>
+    <item>
+      <title>Improving Hiring Process for KPLC</title>
+      <link>//localhost:1313/work/sample-story-two/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/work/sample-story-two/</guid>
+      <description>Reducing operational bias by performing EDA.</description>
+    </item>
+    <item>
+      <title>Logistics Optimization for Nairobi Fleet</title>
+      <link>//localhost:1313/work/sample-story-one/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/work/sample-story-one/</guid>
+      <description>Reducing operational overhead by 15% through geospatial route mapping.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Wed, 22 Jan 2025 17:01:34 +0700</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg&#34; alt=&#34;The Blueprint BI Story&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h2&gt;&#xA;&lt;p&gt;We are a collective of data architects and strategic consultants dedicated to the precision mapping of business processes. We believe that for Kenyan enterprises to achieve sustainable growth, they must move beyond intuition and embrace data-driven clarity.&lt;/p&gt;&#xA;&lt;p&gt;Our team bridges the gap between raw information and executive decision-making, providing the &amp;ldquo;blueprint&amp;rdquo; necessary to navigate complex market landscapes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What We Do We&lt;/strong&gt; specialize in transforming fragmented data into high-performance ecosystems. By integrating advanced Business Intelligence tools with process-mapping methodologies, we identify bottlenecks, unlock hidden efficiencies, and forecast growth trajectories.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Let’s Map Your Growth</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;h3 id=&#34;stop-guessing-start-executing&#34;&gt;Stop Guessing, Start Executing.&lt;/h3&gt;&#xA;&lt;p&gt;At Blueprint BI, we don&amp;rsquo;t just answer emails; we solve structural data challenges. Whether you&amp;rsquo;re dealing with fragmented reporting or looking to scale your logistics through AI, the first step is a clear roadmap.&lt;/p&gt;&#xA;&lt;h4 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h4&gt;&#xA;&lt;p&gt;Reach out directly via the form below, or send an email to &lt;a href=&#34;mailto:hello@blueprintbi.co.ke&#34;&gt;hello@blueprintbi.co.ke&lt;/a&gt;. Our lead consultants typically respond within 24 hours.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;ready-for-the-big-picture&#34;&gt;Ready for the Big Picture?&lt;/h3&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re ready to see exactly where your efficiency leaks are, skip the back-and-forth and head straight to our interactive tool.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
