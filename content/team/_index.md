@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants can help your business at any stage. 
+Meet our team of qualified analysts and certified data wizards who can help your business at any stage. 
