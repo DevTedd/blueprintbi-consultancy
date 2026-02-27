@@ -1,3 +1,3 @@
 ---
-title: "Page Not Found"
+title: "Sorry something went wrong on our end"
 ---

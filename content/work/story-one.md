@@ -10,9 +10,11 @@ A Kinagop-based milk producer firm was struggling with rising feed costs and ine
 
 
 ### Our Solution
-We implemented a custom **Geomapping** blueprint that...
+We performed an in-depth finaicial analysis of the last 10 years of operation, looking into things like inventory tracking, standout years and investigating any outliers & trends. We identified issues with the tracking system, inventory  management and issues with accurately reporting data.
+
+We identified systementaic issues that could be solved with training and thoughtful implementation of systems for feeding, tracking and revenue collection
 
 
 
 ### The Result
-s dcksdCL
+A marked improvement in milk production, asset tracking and farm management through the use of morden techniques, automated tracking & reporting tools. 

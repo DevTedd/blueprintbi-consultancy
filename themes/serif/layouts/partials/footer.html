@@ -5,9 +5,52 @@
         <div class="footer-inner">
           <h3 class="footer-title">{{.Site.Title}}</h3>
           {{ partial "footer-menu" . }}
-          
         </div>
       </div>
     </div>
   </div>
 </div>
+
+<script async src="https://tally.so/widgets/embed.js"></script>
+
+<button data-tally-open="q4A7qY" data-tally-layout="modal" class="discovery-fab">
+  <span class="fab-icon">🔍</span>
+  <span class="fab-text">Free Discovery Tool</span>
+</button>
+
+<style>
+  .discovery-fab {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background-color: #222; /* Sleek Dark Theme */
+    color: white;
+    padding: 14px 22px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: inherit; /* Inherits your site's font */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease;
+  }
+
+  .discovery-fab:hover {
+    transform: scale(1.05);
+    background-color: #000;
+  }
+
+  /* Essential for Mobile: Prevents the button from being too huge */
+  @media (max-width: 768px) {
+    .discovery-fab {
+      bottom: 20px;
+      right: 20px;
+      padding: 10px 18px;
+      font-size: 14px;
+    }
+  }
+</style>
