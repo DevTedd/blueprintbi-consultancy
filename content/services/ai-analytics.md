@@ -3,7 +3,7 @@ title: "AI & Predictive Analytics"
 date: 2026-01-21
 featured: true
 draft: false
-weight: 3
+weight: 4
 summary: "Move from reactive troubleshooting to proactive strategy with custom machine learning models and predictive forecasting."
 ---
 

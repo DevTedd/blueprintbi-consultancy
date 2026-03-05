@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "serif"
 languageCode = "en-us"
-title = "Blueprint BI"
+title = "Blueprint BI | Data & Business Intelligence for Kenyan SMEs"
 
 [module]
   [module.hugoVersion]
@@ -10,26 +10,25 @@ title = "Blueprint BI"
     min = "0.55.0"
 
 [params]
-  # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
   google_analytics_id = ""
   google_tag_manager_id = ""
   favicon = "favicon-32x32.svg"
-  contact_form_action = "https://formspree.io/f/your_id"
-  email = "info@blueprintbi.co.ke"
+  contact_form_action = "https://formspree.io/f/mqeyzarv"
+  email = "hello@blueprintbi.co.ke"
   phone = "+254 757 334 164"
   
 
   [params.homepage]
     sticky_header = true
-    show_contact_box = true      # show / hide the contaxt box on the homepage
-    show_services_button = true # show / hide the "view all services" button
+    show_contact_box = true      
+    show_services_button = true 
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Nairobi-Based Data Consultancy"
+    alt = "Blueprint BI - Business Intelligence Consultancy for Kenyan SMEs"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -45,9 +44,9 @@ title = "Blueprint BI"
     grey = "#5C5A5A"
 
   [params.seo]
-    meta_twitter_site = "@"
-    meta_twitter_creator = "@"
-    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+    meta_og_image = "meta_og_image = "https://www.blueprintbi.co.ke/images/og-image.jpg""
 
   [params.services]
     summary_truncate = 80 # How many characters to include in the summary of the services before truncating
