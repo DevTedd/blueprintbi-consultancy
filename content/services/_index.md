@@ -1,7 +1,7 @@
 ---
 title: 'Services'
 description: 'Data discovery, business intelligence, financial analysis and AI analytics services for Kenyan SMEs'
-intro_image: "images/Images/andrew-neel-cckf4TsHAuw-unsplash.jpg" 
+intro_image: "images/services/andrew-neel-cckf4TsHAuw-unsplash.jpg" 
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---

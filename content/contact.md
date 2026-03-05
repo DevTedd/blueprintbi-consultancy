@@ -3,7 +3,7 @@ title: "Let’s Map Your Growth"
 date: 2025-01-21
 layout: "contact"
 # If your theme supports a hero image on the contact page, add it here:
-intro_image: "images/illustrations/contact-hero.svg" 
+intro_image: "images/contact-hero.jpg" 
 ---
 
 ### Stop Guessing, Start Executing.
