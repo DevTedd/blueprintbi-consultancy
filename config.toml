@@ -25,9 +25,9 @@ title = "Blueprint BI | Data & Business Intelligence for Kenyan SMEs"
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
-    mobile_height = "36px"
+    mobile_height = "48px"
     desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
+    desktop_height = "64px"
     alt = "Blueprint BI - Business Intelligence Consultancy for Kenyan SMEs"
 
   [params.fonts]
