@@ -1,78 +1,63 @@
 ---
 title: "Financial Analysis"
-date: 2026-01-20T15:15:34+10:00
+date: 2026-01-20
 featured: true
 draft: false
 weight: 3
+summary: "Understand the true financial health of your business — and what to do about it."
 ---
 
-Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.
-<!--more-->
+Numbers on a page tell you what happened. Financial analysis tells you *why* it happened, *what it means*, and what you should do next.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Financial Analysis](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Best Practise for Financial Analysis 
+# Know Where You Stand — And Where You're Headed
 
-Financial Analysis follows a cyclical process that has 4 main sections
+Most SMEs have financial records. Few have financial clarity. Our Financial Analysis service bridges that gap — taking your existing income data, cashflow records, and balance sheet information and turning them into a coherent picture of your business's health and trajectory.
 
-1. ### Step 1 : Collecting Historical Information 
-    This infomration should be from atleast 5 years ago, it should contain 3 main feature of the business
-    * Income information - it could be from the finanical records for a pen-paper company or income statements if available
-    * Cashflow Information  - information focusing on the day to day transactions of the company or utilizing previous cashflow statements for an established organization 
-    * Balance Sheet  - this is mainly about a companys, debts(loans,investments), equity and assets(what the company owns)
-    
-2. ### Step 2 : Calculate Fiananical Ratios 
-    There are 3 main types of ratios that allow a clear overview of a company
-    * 1. Liquidity ratios
-    * 2. Profitability ratios 
-    * 3. Solvency ratios
-
-3. ### Step 3 : Perform Analysis on the Key Metrics and Levers of the Business
-    * ### This is the part we come in
-
-4. ### Compare the comany with similar companies - a peer group  
-    This allows the company to make adjustments to take advatage of their newfound visibility to finetune operations, investments and scheduels. 
-
-## What are Financial Ratios 
- * There are 2 main types of ratios: Performance Ratios and Leverage Ratios. The image below outlines how the 2 groups of ratios relate to each other 
-
-
+We work with businesses at all stages: from operations running entirely on paper records to those with formal accounting systems looking for a deeper read on performance.
 
 ---
-# Some Examples to give you an idea
 
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+## How We Approach Financial Analysis
 
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
+### 1. Collect & Organise Historical Data
+We start with at least five years of financial history where available, covering three core areas:
 
+- **Income** — revenue trends, seasonal patterns, and year-on-year growth
+- **Cashflow** — day-to-day transaction flow, liquidity cycles, and cash gaps
+- **Balance Sheet** — assets, liabilities, equity, and debt structure
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+### 2. Calculate Key Financial Ratios
+We apply the ratios that give a clear, standardised view of performance:
 
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
+- **Liquidity ratios** — can the business meet its short-term obligations?
+- **Profitability ratios** — is the business generating adequate return?
+- **Solvency ratios** — is the business financially stable over the long term?
 
+### 3. Analyse the Levers That Drive Your Business
+This is where we add the most value. Beyond the standard ratios, we identify the specific metrics and operational variables that have the most influence on your bottom line — and build a clear picture of what to change, optimise, or protect.
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+### 4. Benchmark Against Your Peer Group
+We compare your performance against similar businesses in your sector and region. This reveals where you are ahead, where you are behind, and where the most accessible opportunities for improvement lie.
 
-##  Balance Sheet Statement
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
+---
 
-- **Fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **Intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-    - goodwill
+## What You Get
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+| Deliverable | Description |
+| --- | --- |
+| **Financial Health Report** | Plain-language summary of your current position |
+| **Ratio Analysis** | Liquidity, profitability, and solvency breakdown |
+| **Trend Visualisation** | Charts showing performance over time |
+| **Recommendations** | Prioritised list of actions based on findings |
+
+---
+
+### Ready to understand your numbers?
+
+Whether you're preparing for growth, seeking investment, or simply want clarity on where your business stands — we'll give you the analysis to move forward with confidence.
+
+<div style="margin-top: 20px;">
+    <a href="/contact" class="button">Book a Financial Review</a>
+</div>
