@@ -1,19 +1,24 @@
 ---
-title: "Implementing a Data-Driven Culture"
+title: "Implementing a Data-Driven Culture in a Hiring Process"
 date: 2025-04-15
 image: "images/projects/logistics-map.jpg"
-summary: "Introducing data-driven decison making in an organization."
+summary: "Introducing structured, data-driven decision making into an organisation's hiring process — removing bias while maintaining trust."
 ---
+
 ### The Challenge
-A well-known local hiring firm was hired to find the next MD of a large utilites company. The applicants were from a wide range of backgrounds and demographics. Across several weeks of hiring, over 15 interview panels and hunderes of applicants, the process was required to be transparent and free from any bias.
 
-#### Some Context
+A recruitment firm approached us mid-process. They were already several weeks into a senior hiring engagement and had accumulated a significant amount of panellist scoring data — but no consistent framework for interpreting it.
 
-In case youve never applied for a role in Kenya, you would be aware of the culture of 'kujua mtu' esopecially for large companies. Removing bias without stepping on toes or risking embrassment is hard to avoid. **Here** is where data analytics can come in, remving bias while providing an anyltical output devoid of influence 
+Different panels had scored differently. Some panellists were generous; others were strict. Without a way to normalise the data, the final shortlist risked reflecting panellist personality as much as candidate merit.
 
 ### Our Solution
-We implemented a custom reveiw process at the end of the interviews with all the panelist present. We began by going through the data, starting with the outliers i.e individuals with extreemly high or low scores, to see if the scores were vald. 
+
+We introduced a lightweight data review process that could be applied retrospectively to the existing scores without disrupting the client relationship or the panel's confidence in their own judgement.
+
+Working with the scores already collected, we identified statistical patterns across panels, flagged anomalies, and built a normalised view of candidate performance. We then walked the hiring team through the data — not to override their judgement, but to give them a clearer picture to make decisions from.
+
+The approach was designed to be collaborative, not clinical. People adopt data-driven processes when they feel ownership of the outcome.
 
 ### The Result
 
-Sucessfull hiring from the best poll of candidates, from a process devoid of outside influence or internal bias.
+The hiring team left the engagement with a shortlist they could defend analytically, a process they understood, and — critically — a new appreciation for what structured data review could do for future hiring cycles. One team member described it as *"seeing the interviews for the first time."*
