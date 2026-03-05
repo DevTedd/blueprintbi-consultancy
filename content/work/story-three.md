@@ -1,7 +1,7 @@
 ---
 title: "Implementing a Data-Driven Culture in a Hiring Process"
 date: 2025-04-15
-image: "images/projects/logistics-map.jpg"
+image: "images/projects/data-culture.jpeg"
 summary: "Introducing structured, data-driven decision making into an organisation's hiring process — removing bias while maintaining trust."
 ---
 

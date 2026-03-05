@@ -1,7 +1,7 @@
 ---
 title: "Dairy Production Optimisation for a Kinangop Packager"
 date: 2026-01-21
-image: "images/projects/logistics-map.jpg"
+image: "images/projects/dairy-farm.jpg"
 summary: "Reducing operational overhead by 15% through inventory management and predictive analytics for a Central Kenya milk producer."
 ---
 

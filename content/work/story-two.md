@@ -1,7 +1,7 @@
 ---
 title: "Bias-Free Executive Hiring for a Kenyan Utilities Company"
 date: 2025-12-21
-image: "images/projects/logistics-map.jpg"
+image: "images/projects/hiring.jpg"
 summary: "Removing hiring bias through exploratory data analysis and score abstraction across 15+ interview panels."
 ---
 

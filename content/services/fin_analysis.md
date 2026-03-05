@@ -9,7 +9,7 @@ summary: "Understand the true financial health of your business — and what to 
 
 Numbers on a page tell you what happened. Financial analysis tells you *why* it happened, *what it means*, and what you should do next.
 
-![Financial Analysis](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Financial Analysis](/images/services/fin-hero.jpg)
 
 # Know Where You Stand — And Where You're Headed
 
