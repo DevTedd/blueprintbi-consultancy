@@ -2,7 +2,7 @@
 title: "Blueprint BI Is Open: Why Kenya's SMEs Deserve Better Than Gut Feel"
 date: 2026-03-07
 description: "We built Blueprint BI because the gap between what Kenyan businesses know and what they could know is costing them more than they realise."
-image: "images/blog/launch.jpg"
+image: "images/blog/measure-often-cut-once.jpg"
 author: "Blueprint BI"
 ---
 
