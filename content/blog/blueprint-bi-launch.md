@@ -3,7 +3,7 @@ title: "Blueprint BI Is Open: Why Kenya's SMEs Deserve Better Than Gut Feel"
 date: 2026-01-01
 description: "We built Blueprint BI because the gap between what Kenyan businesses know and what they could know is costing them more than they realise."
 image: "images/blog/launch.jpg"
-author: "Ted Mwangi : Founder of Blueprint BI"
+author: "Blueprint BI"
 ---
 
 There is a pattern that repeats itself across Kenyan businesses of every size and sector. A company is growing — customers are coming in, revenue is moving — but no one can say with confidence which product is actually profitable, which customers are most likely to return, or where the business will be in six months.
