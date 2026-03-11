@@ -36,7 +36,9 @@ You cannot manage what you cannot see. We create a comprehensive **Blueprint** t
 > "Data is only as valuable as the decisions it enables."
 
 ### Structural Understanding
+
 We examine how your data is currently stored and managed. Are your records **robust** enough for financial analysis? Or do we need to **collect** more?
+
 ---
 
 ## The Discovery Roadmap
