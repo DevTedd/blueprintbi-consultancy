@@ -7,17 +7,15 @@ summary: "Designing and implementing a farm management and tracking system for a
 
 ### The Challenge
 
-The farm started in late-2025 and has been expereinceing several operational challenges, high mortality rates, disjointed manual tracking, no visibility into feed conversion,and lack of understanding of flock performance. 
+The farm started in late 2025 and has been experiencing several operational challenges, including high mortality rates, disjointed manual tracking, no visibility into feed conversion, and a lack of understanding of flock performance.
 
 ### Our Solution
 
 We implemented a custom data collection and reporting framework covering:
 
-- Daily flock tracking (weight, mortality, feed consumption)
-- Feed conversion ratio (FCR) monitoring
-- Automated weekly performance summaries
-
-
+* Daily flock tracking (weight, mortality, feed consumption)
+* Feed conversion ratio (FCR) monitoring
+* Automated weekly performance summaries
 
 ### The Result
 

@@ -12,11 +12,13 @@ We are a collective of data architects and strategic consultants dedicated to th
 
 Our team bridges the gap between raw information and executive decision-making, providing the "blueprint" necessary to navigate complex market landscapes.
 
-**What We Do We** specialize in transforming fragmented data into high-performance ecosystems. By integrating advanced Business Intelligence tools with process-mapping methodologies, we identify bottlenecks, unlock hidden efficiencies, and forecast growth trajectories. 
+**What We Do We** 
+
+We specialize in transforming fragmented data into high-performance ecosystems. By integrating advanced Business Intelligence tools with process-mapping methodologies, we identify bottlenecks, unlock hidden efficiencies, and forecast growth trajectories. 
 
 Whether we are auditing your current data architecture or designing custom analytics dashboards, our goal remains the same: to turn your operational data into your most valuable strategic asset.
 
-[Assest your growth potential here](#fati)
+<!-- [Assest your growth potential here](#fati) -->
 
 ## Our Methodology: Where Precision Meets Innovation
 
@@ -32,4 +34,4 @@ We leverage a sophisticated technology stack tailored to your specific operation
 
 3. **Automated Data Architecture and RPA**: We replace manual, error-prone reporting with automated pipelines, ensuring your leadership team always has a "single source of truth."
 
-[Begin with a deep-dive our Discovery Map.](LINK)
+<!-- [Begin with a deep-dive our Discovery Map.](LINK) -->
