@@ -4,43 +4,44 @@ date: 2026-01-21
 featured: true
 draft: false
 weight: 2
-summary: "Transform raw data into a competitive advantage with real-time dashboards and strategic visual reporting."
+summary: "Stop reading last month's numbers. See what's happening now — and what to do next."
 aliases:
   - /services/business-inteligence/
 ---
 
-Business Intelligence is the engine of modern decision-making. We transform your complex data into visual dashboards that let you monitor performance, identify risks, and act on opportunities — in real time.
+By the time most reports land on your desk, the moment to act has passed.
 
-![Business Intelligence Dashboard](/images/services/bi-hero.jpg)
+We build dashboards that show you what's happening in your business 
+right now — not days after it hits your books.
 
-# From Hindsight to Foresight
+![Business Intelligence Dashboard](__/images/services/bi-hero.jpg__)
 
-Traditional reporting tells you what happened last month. Blueprint BI shows you what is happening *now* and what needs to happen *next*.
+## From Hindsight to Foresight
 
-1. **Clarity:** We track only the KPIs that matter to your growth.
-2. **Accessibility:** Decision-makers get high-quality insights at their fingertips, whether in the shop or in the field.
-3. **Accuracy:** We build a single source of truth so your staff stop assigning blame.
+1. **Stop guessing at margins.** We track the KPIs that actually drive 
+   your growth, not just the headline numbers.
+2. **End the spreadsheet arguments.** One source of truth means no more 
+   conflicting figures or finger-pointing when numbers don't match.
+3. **Move faster.** Whether you're in the office or in the field, the 
+   same clear picture on any device.
 
-## The Pillars of Intelligence
+## What we build
 
-### Real-Time Relevance
-The value of data decays quickly. We ensure you have the information you need before a decision has to be made, not days after its hit your books.
+**Dashboards your team will actually use.** Built around the decisions 
+you make every week — not how a consultant thinks your business should run.
 
-> "Intelligence is the ability to adapt to change. Business Intelligence is the tool that tells you when to move."
+**Performance mapping.** We connect operational output to financial 
+results so you can see exactly where efficiency gaps are costing you 
+before they become losses.
 
-## Operational Insights
+**A single source of truth.** If your teams are working from different 
+data, that's a trust problem. We fix the plumbing.
 
-### Performance Mapping
-We don't just show numbers — we show relationships. By mapping your operational output against your financial goals, we highlight exactly where your efficiency gaps are occurring.
-<!-- 
-### Geospatial Trends
-Combining your data with geomapping lets you see *where* your growth is happening. Visualising market coverage and logistics flow on a map provides a layer of intelligence that tables and spreadsheets simply cannot match. -->
+## Is this right for you?
 
-
-### Ready for 20/20 visibility into your business?
-
-Let us build the dashboard that gives your leadership team the clarity to make faster, better decisions.
+BI works best when you're past keeping everything in your head, but not 
+yet big enough for a full analytics team — typically 5 to 80 people.
 
 <div style="margin-top: 20px;">
-    <a href="/contact" class="button">Request a BI Demo</a>
+  <a href="/contact" class="button">Let's talk about your numbers</a>
 </div>

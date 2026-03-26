@@ -7,57 +7,43 @@ weight: 1
 summary: "Before you can grow, you must know what you have."
 ---
 
-Most organisations are **Data Rich** but **Insight Poor**.
+Most businesses are sitting on more data than they realise. 
+The problem isn't having too little — it's not knowing what 
+you have or whether you can trust it.
 
-![Data Mapping and Discovery](/images/services/data-discovery-hero.jpg)
+![Data Mapping and Discovery](__/images/services/data-discovery-hero.jpg__)
 
-# The Foundation of Your Blueprint
+## What Data Discovery actually is
 
-Our Data Discovery service is the first step in your journey toward identifying the hidden opportunities within your existing systems before we build anything on top of them.
+We go through your entire business — every spreadsheet, system, 
+and process — and map what data exists, what it's worth, and 
+what's missing.
 
-### Before you can grow, you must know what you have.
+1. **Inventory.** Every data source currently feeding your business, 
+   in one place.
+2. **Quality check.** Is what you're working with accurate and 
+   complete enough to make decisions on?
+3. **Strategic alignment.** Which data points actually move the 
+   needle for your specific goals — and which are just noise?
 
-Data Discovery is the process of identifying, collecting, and evaluating data across your entire business.
+The output is a Blueprint: a clear picture of your information 
+flows and a prioritised plan for what to fix or build next.
 
+## How it works
 
+| Phase | What we do | What you get |
+|---|---|---|
+| Discover | Map every data source | Full inventory of your data assets |
+| Question | Exploratory analysis | The right questions for your business |
+| Strategise | Build your Blueprint | The levers that control your growth |
+| Improve | Align to your goals | A measurement plan that tracks progress |
 
-1. **Inventory:** We map every data source currently feeding your business.
-2. **Quality Assessment:** We evaluate the accuracy, completeness, and noise within your datasets.
-3. **Strategic Alignment:** We identify which data points actually move the levers for your specific business goals.
+## Is this where you start?
 
-
----
-
-## The Pillars of Discovery
-
-### Visibility
-You cannot manage what you cannot see. We create a comprehensive **Blueprint** that visualises the flow of information through your business.
-
-> "Data is only as valuable as the decisions it enables."
-
-### Structural Understanding
-
-We examine how your data is currently stored and managed. Are your records **robust** enough for financial analysis? Or do we need to **collect** more?
-
----
-
-## The Discovery Roadmap
-
-Our process follows a proven four-stage template to ensure nothing is missed.
-
-| Phase | Objective | Outcome |
-| --- | --- | --- |
-| **Discovery** | Source Data Sources |A list of data assets |
-| **Question** | Exploratory Data Analysis |What questions need to be answered? |
-| **Strategize** | Create A Growth Blueprint | Identify what levers control your business |
-| **Improve** | Goal Alignment | Blueprint implementation and measurement of success |
-
----
-
-### Ready to find out what your data is telling you?
-
-The first step toward efficiency is visibiity. Let us tackle your business needs and give you the path you need to scale.
+If you're making decisions based on gut feel, or you've tried 
+building reports but don't trust the numbers — Discovery is 
+the right first step before anything else.
 
 <div style="margin-top: 20px;">
-    <a href="/contact" class="button">Book a Discovery Audit</a>
+  <a href="/contact" class="button">Book a Discovery Audit</a>
 </div>

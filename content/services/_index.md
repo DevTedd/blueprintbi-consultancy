@@ -8,6 +8,8 @@ intro_image_hide_on_mobile: false
 
 # Services that grow with your business
 
-Most Kenyan SMEs are sitting on more data than they realise — in their sales records, their operations, their finances. We help you find it, structure it, and turn it into decisions that move your business forward.
+Whether you run a farm, a logistics operation, or a growing service business — your data already has answers. We help you ask the right questions.
 
-Every engagement starts with understanding your business first. The tools and dashboards come after.
+1. Understand what your data is telling you
+2. Turn those insights into a decision or a system
+3. Build the habit of data-driven thinking in your team

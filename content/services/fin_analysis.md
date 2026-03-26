@@ -19,7 +19,7 @@ We take your existing income data, cashflow records, and balance sheet informati
 
 ---
 
-## How We Approach Financial Analysis
+<!-- ## How We Approach Financial Analysis
 
 ### 1. Collect & Organise Historical Data
 We start with at least five years of financial history, covering three core areas:
@@ -41,7 +41,7 @@ This is where we add the most value. We identify the specific metrics and operat
 ### 4. Benchmark Against Your Peer Group
 We compare your performance against similar businesses in your sector and region. 
 
-This reveals where you are ahead, where you are behind, and where the most accessible opportunities for improvement lie.
+This reveals where you are ahead, where you are behind, and where the most accessible opportunities for improvement lie. -->
 
 ---
 
