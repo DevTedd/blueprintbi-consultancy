@@ -1,0 +1,123 @@
+diff --git a/config.toml b/config.toml
+index ff718f7..aea6c56 100644
+--- a/config.toml
++++ b/config.toml
+@@ -1,4 +1,4 @@
+-baseURL = "/"
++baseURL = "https://www.blueprintbi.co.ke/"
+ themesDir = "themes"
+ theme = "serif"
+ languageCode = "en-us"
+@@ -47,6 +47,8 @@ title = "Blueprint BI | Data & Business Intelligence for Kenyan SMEs"
+     meta_twitter_site = ""
+     meta_twitter_creator = ""
+     meta_og_image = "https://www.blueprintbi.co.ke/images/og-image.jpg"
++    business_locality = "Nairobi"
++    business_country = "Kenya"
+ 
+   [params.services]
+     summary_truncate = 80 # How many characters to include in the summary of the services before truncating
+diff --git a/content/_index.md b/content/_index.md
+index 68c56d0..d64fd91 100644
+--- a/content/_index.md
++++ b/content/_index.md
+@@ -1,15 +1,16 @@
+ ---
+ title: 'Homepage'
+-meta_title: 'Blueprint Business Intelligence Consultancy'
+-description: "Blueprint BI provides Kenyan businesses the ability to make informed decions abut their business."
++meta_title: 'Business Intelligence & Data Analytics Consultancy in Kenya | Blueprint BI'
++description: "Blueprint BI helps Kenyan SMEs find hidden costs, track KPIs, and grow revenue with clear, practical business intelligence and financial analysis."
+ intro_image: "images/home.jpg"
++intro_image_alt: "Blueprint BI dashboard showing business performance metrics for a Kenyan SME"
+ intro_image_absolute: false
+ intro_image_absolute_offset: "auto auto -100px -80px"
+ intro_image_hide_on_mobile: true
+ ---
+ 
+-# BlueprintBI -  If you're ready to see exactly where your money leaks are, skip the guessing and plan a path to success.
++# Stop Guessing. Start Growing.
+ 
+-## Stop Guessing. Start Growing.
++## If you're ready to see exactly where your money leaks are, skip the guessing and plan a path to success.
+ 
+ 
+diff --git a/static/robots.txt b/static/robots.txt
+new file mode 100644
+index 0000000..3cfae5c
+--- /dev/null
++++ b/static/robots.txt
+@@ -0,0 +1,4 @@
++User-agent: *
++Allow: /
++
++Sitemap: https://www.blueprintbi.co.ke/sitemap.xml
+diff --git a/themes/serif/layouts/_default/baseof.html b/themes/serif/layouts/_default/baseof.html
+index f6f1f48..52240e2 100644
+--- a/themes/serif/layouts/_default/baseof.html
++++ b/themes/serif/layouts/_default/baseof.html
+@@ -7,6 +7,7 @@
+   <title>{{ block "title" . }}{{ .Params.meta_title | default (printf "%s - %s" .Title .Site.Title) }}{{ end }}</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="icon" type="image/png" href="{{ .Site.Params.favicon | relURL }}">
++  <link rel="canonical" href="{{ .Permalink }}">
+ 
+   {{ partial "google-fonts.html" . }}
+ 
+@@ -32,6 +33,25 @@
+     {{ with .Site.Params.seo.meta_twitter_creator }}<meta name="twitter:creator" content="{{ . }}"/>{{ end }}
+   {{ end }}
+ 
++  <script type="application/ld+json">
++  {
++    "@context": "https://schema.org",
++    "@type": "ProfessionalService",
++    "name": "{{ .Site.Title }}",
++    "url": "{{ .Site.BaseURL }}",
++    "email": "{{ .Site.Params.email }}",
++    "telephone": "{{ .Site.Params.phone }}",
++    "image": "{{ .Site.Params.seo.meta_og_image }}",
++    "address": {
++      "@type": "PostalAddress",
++      "addressLocality": "{{ .Site.Params.seo.business_locality }}",
++      "addressCountry": "{{ .Site.Params.seo.business_country }}"
++    },
++    "areaServed": "Kenya",
++    "priceRange": "$$"
++  }
++  </script>
++
+ </head>
+ 
+ <body class='page {{ block "body_classes" . }}{{ end }}'>
+diff --git a/themes/serif/layouts/index.html b/themes/serif/layouts/index.html
+index 7c12cba..f2203f1 100644
+--- a/themes/serif/layouts/index.html
++++ b/themes/serif/layouts/index.html
+@@ -45,7 +45,7 @@
+       <div class="col-12 col-md-6 col-lg-4 mb-2">
+         <div class="feature">
+           {{ if .image }}
+-          <div class="feature-image"><img width="100" height="100" alt="{{ .Title }} logo"
++          <div class="feature-image"><img width="100" height="100" alt="{{ .title }} icon" loading="lazy"
+               src="{{ .image | relURL }}" /></div>
+           {{ end }}
+           <h2 class="feature-title">{{ .title }}</h2>
+diff --git a/themes/serif/layouts/partials/intro-image.html b/themes/serif/layouts/partials/intro-image.html
+index 678921b..ce77b08 100644
+--- a/themes/serif/layouts/partials/intro-image.html
++++ b/themes/serif/layouts/partials/intro-image.html
+@@ -1,9 +1,11 @@
+ {{ if .Params.intro_image }}
+ <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+   <img
+-    alt="{{ .Title }}"
++    alt="{{ .Params.intro_image_alt | default .Title }}"
+     class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
+-    src="{{ .Params.intro_image | relURL }}" 
++    src="{{ .Params.intro_image | relURL }}"
++    loading="eager"
++    fetchpriority="high"
+     style="{{ if .Params.intro_image_absolute_offset }}inset: {{ .Params.intro_image_absolute_offset }};{{end}}"
+   />
+ </div>
