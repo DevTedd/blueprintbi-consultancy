@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.blueprintbi.co.ke/"
 themesDir = "themes"
 theme = "serif"
 languageCode = "en-us"
@@ -47,6 +47,8 @@ title = "Blueprint BI | Data & Business Intelligence for Kenyan SMEs"
     meta_twitter_site = ""
     meta_twitter_creator = ""
     meta_og_image = "https://www.blueprintbi.co.ke/images/og-image.jpg"
+    business_locality = "Nairobi"
+    business_country = "Kenya"
 
   [params.services]
     summary_truncate = 80 # How many characters to include in the summary of the services before truncating

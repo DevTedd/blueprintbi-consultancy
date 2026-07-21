@@ -7,6 +7,7 @@
   <title>{{ block "title" . }}{{ .Params.meta_title | default (printf "%s - %s" .Title .Site.Title) }}{{ end }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="{{ .Site.Params.favicon | relURL }}">
+  <link rel="canonical" href="{{ .Permalink }}">
 
   {{ partial "google-fonts.html" . }}
 
@@ -31,6 +32,25 @@
     {{ with .Site.Params.seo.meta_twitter_site }}<meta name="twitter:site" content="{{ . }}"/>{{ end }}
     {{ with .Site.Params.seo.meta_twitter_creator }}<meta name="twitter:creator" content="{{ . }}"/>{{ end }}
   {{ end }}
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "email": "{{ .Site.Params.email }}",
+    "telephone": "{{ .Site.Params.phone }}",
+    "image": "{{ .Site.Params.seo.meta_og_image }}",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{ .Site.Params.seo.business_locality }}",
+      "addressCountry": "{{ .Site.Params.seo.business_country }}"
+    },
+    "areaServed": "Kenya",
+    "priceRange": "$$"
+  }
+  </script>
 
 </head>
 
